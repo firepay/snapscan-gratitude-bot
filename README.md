@@ -39,7 +39,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Website - [https://snapscan.co.za](https://snapscan.co.za/)
+- Website - [https://www.snapscan.co.za](https://snapscan.co.za/)
 - Twitter - [@SnapScanApp](https://twitter.com/SnapScanApp)
 
 ## License
